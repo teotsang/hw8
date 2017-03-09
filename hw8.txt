@@ -1,0 +1,55 @@
+What is a backend server? 
+
+A backend server is a database that store data that received from the front end browser such as user informations.
+
+
+What are 3 good resources for understanding servers? 
+
+Code School, Wes Bos, and Hackhands.
+
+
+What do you specifically like about those resources?
+
+Code School provide simple and user friendly inferface.
+Wes Bos is responsive to questions
+Hackhands provide shared screen live sessions which user can interact with expert instantaneously
+
+
+What is an SQL versus a noSQL database? 
+
+SQL is a relational database and noSQL is a no-relational database
+SQL data is presented in table form and noSQL is presented with documents, key-value pairs or graphs.
+SQL uses structured query language to do changes on data and noSQL uses unstructured query language which use on collection of data.
+
+Why is one preferable to another? 
+
+SQL is preferable than noSQL when data are in same categories such as storing account informations, usernames and passwords.
+NoSQL is preferable than SQL when there are lots of media showing in one page and users can interact with them frequently such as a Facebook page. 
+
+Find 2 good blog entries or courses on how to get started with SQL and tell me what you like about them.
+
+SQLCourse
+
+Where do you go to find help on javascript questions?
+
+	Codecademy or w3school
+
+Let’s say you want to find information on how promises work in ES6. What does that mean? 
+
+Promises is a proxy in ES6 that makes asynchronous action sync up and give a result.
+
+Make a list of at least 3 resources you consulted in finding that answer.
+
+https://ponyfoo.com/articles/es6-promises-in-depth#what-is-a-promise
+http://www.datchley.name/es6-promises/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+
+Imagine you are working on a problem with using git to merge files from another contributor on your project. What resources can you find to help you understand git merge? 
+
+https://www.atlassian.com/git/tutorials/git-merge
+https://git-scm.com/docs/git-merge
+
+On your system, what editor gets launched to show merges? 
+
+Visual Studio Code
+
